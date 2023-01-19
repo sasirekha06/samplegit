@@ -1,2 +1,2 @@
 Hello this is just a demo project1
-welcome to git commands
+welcome to git commands in feature1 branch
